@@ -26,3 +26,4 @@ All notable visitor-facing changes are recorded here.
 - Embedded live previews for both production products
 - Mobile navigation and keyboard-accessible controls
 - Browser console with no warnings or errors
+- Public deployment live at `https://ohmsaharath.github.io/` via GitHub Actions Pages workflow (`OhmSaharath/OhmSaharath.github.io`)

@@ -1,10 +1,10 @@
 # Portfolio Project Status
 
-Last updated: 2026-10-30 19:42 ICT
+Last updated: 2026-10-30 19:48 ICT
 
 ## Current state
 
-**Phase:** Local build and QA complete; public publication pending  
+**Phase:** Published to production (`https://ohmsaharath.github.io/`)  
 **Owner:** Saharath Lertkirawong  
 **Target repository:** `OhmSaharath/OhmSaharath.github.io`  
 **Target URL:** `https://ohmsaharath.github.io/`
@@ -26,18 +26,20 @@ Last updated: 2026-10-30 19:42 ICT
 - [x] Both live product previews verified inside the portfolio
 - [x] Resume asset and all local references verified
 - [x] Browser console checked with no warnings or errors
+- [x] Initialized the local Git repository on `main`
+- [x] Created the verified source commit (`8889cfc`)
+- [x] Created the public GitHub repository (`OhmSaharath/OhmSaharath.github.io`)
+- [x] Pushed the verified source to `main`
+- [x] Enabled GitHub Pages with GitHub Actions (`build_type: workflow`)
+- [x] Verified the public deployment at `https://ohmsaharath.github.io/` (all pages and assets returning HTTP 200)
 
 ## In progress
 
-- [x] Initialized the local Git repository on `main`
-- [x] Created the verified source commit (`8889cfc`)
+None — initial public release is live and verified.
 
 ## Pending external publication
 
-- [ ] Create the public GitHub repository
-- [ ] Push the verified source to `main`
-- [ ] Enable GitHub Pages with GitHub Actions
-- [ ] Verify the public deployment
+None.
 
 ## Known constraints
 
@@ -47,4 +49,4 @@ Last updated: 2026-10-30 19:42 ICT
 
 ## Next agent action
 
-Create the public GitHub repository, push `main`, enable GitHub Pages, and verify the deployed website.
+Await owner feedback or new case studies/metrics updates. Follow `GEMINI.md` workflow before making any future edits.
