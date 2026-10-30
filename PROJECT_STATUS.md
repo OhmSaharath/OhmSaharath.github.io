@@ -4,7 +4,7 @@ Last updated: 2026-10-30 19:42 ICT
 
 ## Current state
 
-**Phase:** Local implementation in progress  
+**Phase:** Local build and QA complete; public publication pending  
 **Owner:** Saharath Lertkirawong  
 **Target repository:** `OhmSaharath/OhmSaharath.github.io`  
 **Target URL:** `https://ohmsaharath.github.io/`
@@ -29,7 +29,8 @@ Last updated: 2026-10-30 19:42 ICT
 
 ## In progress
 
-- [ ] Initialize local Git repository and commit the verified source
+- [x] Initialized the local Git repository on `main`
+- [x] Created the verified source commit (`8889cfc`)
 
 ## Pending external publication
 
@@ -46,4 +47,4 @@ Last updated: 2026-10-30 19:42 ICT
 
 ## Next agent action
 
-Initialize the local Git repository, commit the verified source, create the public GitHub repository, and publish through GitHub Pages.
+Create the public GitHub repository, push `main`, enable GitHub Pages, and verify the deployed website.
